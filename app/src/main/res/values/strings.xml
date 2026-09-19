@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">tcc balancetech</string>
+    <string name="foto_do_usu_rio">Foto do usuário</string>
+
+        <string name="pergunta_atividade">
+        Qual é seu nível de atividade física?
+    </string>
+
+        <string name="pouco_exercicio">
+        Pouco ou nenhum exercício
+    </string>
+
+        <string name="exercicio_1_3">
+        Exercícios 1-3x na semana
+    </string>
+
+        <string name="exercicio_3_5">
+        Exercícios 3-5x na semana
+    </string>
+
+        <string name="exercicio_6_7">
+        Exercícios 6-7x na semana
+    </string>
+
+        <string name="exercicio_intenso">
+        Exercícios intensos diariamente
+    </string>
+
+        <string name="continuar">Continue</string>
+
+</resources>
